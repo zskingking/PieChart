@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+
+    <color name="pie_green">#f95a2f</color>
+    <color name="pie_red">#36bb98</color>
+    <color name="pie_orange">#f39f03</color>
+    <color name="pie_blue">#54b1e4</color>
+    <color name="pie_grey">#757676</color>
+    <color name="pie_yellow">#ffe93f</color>
+    <color name="pie_pink">#ea5777</color>
+    <color name="pie_violet">#c11dbe</color>
+    <color name="pie_light_blue">#4debed</color>
+    <color name="pie_light_green">#7dcc3c</color>
+
+</resources>
